@@ -1,7 +1,7 @@
 /* Persistent single linked list.
  * Based on: http://bartoszmilewski.com/2013/11/13/functional-data-structures-in-c-lists/
  * Original source: https://github.com/BartoszMilewski/Okasaki/blob/master/SimpleList/ListGC.h
- * /
+ */
 
 #include <memory>
 #include <cassert>
